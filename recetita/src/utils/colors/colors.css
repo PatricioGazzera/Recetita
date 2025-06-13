@@ -3,5 +3,6 @@
     --principalGreen: #269543;
     --transparentGreen: rgba(167, 215, 181);
     --principalBlack: #2e2e2e;
-    
+    --principalWhite: #FAF8F9;
+    --shadow: -1px 7px 5px -3px rgba(0, 0, 0, 0.1);
 }

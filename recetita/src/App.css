@@ -1,7 +1,10 @@
 body {
   font-family: var(--Inter), sans-serif;
+  overflow-x: hidden;
 }
 
-.hola {
-  font-family: var(--Inter), sans-serif;
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
